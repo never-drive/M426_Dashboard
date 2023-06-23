@@ -8,7 +8,7 @@ title:  "IA21a"
 | BZZ Eats              | [öffnen][11]   | [öffnen][12] | [öffnen][13] |              | React, Spring Boot, MySQL | |
 | SmartHome Security    | [öffnen][21]   | [öffnen][22] | [öffnen][23] |              | React (TS)   |              |
 | Simple Chat App       | [öffnen][31]   | [öffnen][32] | [öffnen][33] | [öffnen][34] | [öffnen][35] | [öffnen][36] |
-| Investment Broker     |                | [öffnen][42] | [öffnen][43] |              | ?            |              |
+| Investment Broker     | [öffnen][41]   | [öffnen][42] | [öffnen][43] |              | React, Express.js, SQLite | |
 
 [11]: doc/Product%20Vision%20-%20BZZ%20Eats.png
 [12]: https://trello.com/b/jyX2ZjQi/team-1a-bzz-eats
@@ -25,5 +25,6 @@ title:  "IA21a"
 [35]: https://github.com/Simple-Chat-GmbH/simple-chat#readme
 [36]: https://documenter.getpostman.com/view/20547196/2s93z5B63R
 
+[41]: doc/Product%20Vision%20-%20Investment%20Broker.pdf
 [42]: https://trello.com/b/k8nY3keQ/team-4a-investment-broker
 [43]: https://github.com/Investment-broker-app-bzz
