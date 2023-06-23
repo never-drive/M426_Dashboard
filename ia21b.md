@@ -5,9 +5,9 @@ title:  "IA21b"
 
 | Team + Titel          | Product Vision | Board        | Repo URL     | Live URL     | Tech-Stack   | Wiki         |
 | --------------------- | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Gradoodle             | [öffnen][11]   | [öffnen][12] | [öffnen][13] |              | ?            |              |
+| Gradoodle             | [öffnen][11]   | [öffnen][12] | [öffnen][13] |              | Java         |              |
 | Kochen mit Delish     | [öffnen][21]   | [öffnen][22] | [öffnen][23] |              | ?            |              |
-| Auto Web Super Cars   | [öffnen][31]   | [öffnen][32] | [öffnen][33] |              | ?            |              |
+| Auto Web Super Cars   | [öffnen][31]   | [öffnen][32] | [öffnen][33] |              | Java         |              |
 | Gym Buddy Fitness Pro | [öffnen][41]   | [öffnen][42] | [öffnen][43] |              | ?            |              |
 
 [11]: doc/Product%20Vision%20-%20Gradoodle.pdf
