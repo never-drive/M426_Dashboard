@@ -8,7 +8,7 @@ title:  "IA21b"
 | Gradoodle             | [öffnen][11]   | [öffnen][12] | [öffnen][13] |              | ?            |              |
 | Kochen mit Delish     | [öffnen][21]   | [öffnen][22] | [öffnen][23] |              | ?            |              |
 | Auto Web Super Cars   | [öffnen][31]   | [öffnen][32] | [öffnen][33] |              | ?            |              |
-| Gym Buddy Fitness Pro |                | [öffnen][42] | [öffnen][43] |              | ?            |              |
+| Gym Buddy Fitness Pro | [öffnen][41]   | [öffnen][42] | [öffnen][43] |              | ?            |              |
 
 [11]: doc/Product%20Vision%20-%20Gradoodle.pdf
 [12]: https://trello.com/b/zTN1HwXM/team-1b-notengambling
@@ -22,5 +22,6 @@ title:  "IA21b"
 [32]: https://trello.com/b/mTcpFfQN/team-3b-auto-web-super-cars
 [33]: https://github.com/SuperCarWebsiteTeam
 
+[41]: doc/Product%20Vision%20-%20Gym%20Buddy.pdf
 [42]: https://trello.com/b/bWXlzCQb/team-4b-gym-buddy-fitness-pro
 [43]: https://github.com/bzz-fgict/Gym

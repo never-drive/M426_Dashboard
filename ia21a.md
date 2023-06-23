@@ -6,8 +6,8 @@ title:  "IA21a"
 | Team + Titel          | Product Vision | Board        | Repo URL     | Live URL     | Tech-Stack   | Wiki         |
 | --------------------- | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | BZZ Eats              | [öffnen][11]   | [öffnen][12] | [öffnen][13] |              | ?            |              |
-| SmartHome Security    | [öffnen][21]   | [öffnen][22] |              |              | ?            |              |
-| Simple Chat App       |                | [öffnen][32] | [öffnen][33] |              | ?            |              |
+| SmartHome Security    | [öffnen][21]   | [öffnen][22] | [öffnen][23] |              | React (TS)   |              |
+| Simple Chat App       | [öffnen][31]   | [öffnen][32] | [öffnen][33] |              | ?            |              |
 | Investment Broker     |                | [öffnen][42] | [öffnen][43] |              | ?            |              |
 
 [11]: doc/Product%20Vision%20-%20BZZ%20Eats.png
